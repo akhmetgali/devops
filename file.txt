@@ -1,1 +1,7 @@
 My first line
+<<<<<<< HEAD
+=======
+London is a capital of GB
+Moscow is a capital of Russia
+Paris is a capital of France
+>>>>>>> parent of 16ebcc2... Revert "Capital Paris added"
