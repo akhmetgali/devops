@@ -1,0 +1,6 @@
+language: ruby
+rvm:
+ - 2.2
+ - jruby
+notifications:
+  slack: devopstesttutor:01jARzsv4vsfCQ64dexWAALd
