@@ -1,6 +1,6 @@
-language: ruby
-rvm:
- - 2.2
- - jruby
+language: python
+venv:
+ - 3.6
+ - pbr
 notifications:
   slack: devopstesttutor:01jARzsv4vsfCQ64dexWAALd
