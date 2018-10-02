@@ -3,5 +3,7 @@ python:
  - "3.6"
 install:
  - pip install pbr
+script:
+ - echo "I'm working!"
 notifications:
   slack: devopstesttutor:01jARzsv4vsfCQ64dexWAALd
