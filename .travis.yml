@@ -1,6 +1,7 @@
 language: python
-venv:
- - 3.6
- - pbr
+python:
+ - "3.6"
+install:
+ - pip install pbr
 notifications:
   slack: devopstesttutor:01jARzsv4vsfCQ64dexWAALd
